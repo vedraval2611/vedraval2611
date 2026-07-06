@@ -6,7 +6,11 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **React.js, Node.js, Machine Learning**
+### 🚀 Currently Working On
+
+- 🌱 Learning **React.js & Node.js**
+- 🤖 Exploring **Machine Learning**
+- 💻 Building **Full Stack Projects**
 - 💻 Interested in **Full Stack Development & AI**
 - 👨‍🎓 Computer Science Student at **GLS University**
 - 📫 Reach me on LinkedIn or GitHub
