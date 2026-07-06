@@ -11,10 +11,10 @@
 - 🌱 Learning **React.js & Node.js**
 - 🤖 Exploring **Machine Learning**
 - 💻 Building **Full Stack Projects**
-- 💻 Interested in **Full Stack Development & AI**
+- 💼 Interested in **Full Stack Development & AI**
 - 👨‍🎓 Computer Science Student at **GLS University**
-- 📫 Reach me on LinkedIn or GitHub
-- ⚡ Fun fact: I enjoy solving programming problems and building real-world projects.
+- 📫 connect with me on LinkedIn or GitHub
+- ⚡ I enjoy solving programming problems and building real-world projects.
 
 ---
 
