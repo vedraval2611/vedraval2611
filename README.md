@@ -9,7 +9,7 @@
 - 🌱 Currently learning **React.js, Node.js, Machine Learning**
 - 💻 Interested in **Full Stack Development & AI**
 - 👨‍🎓 Computer Science Student at **GLS University**
-- 📫 Connect with me on LinkedIn
+- 📫 Reach me on LinkedIn or GitHub
 - ⚡ Fun fact: I enjoy solving programming problems and building real-world projects.
 
 ---
