@@ -6,8 +6,6 @@
 
 ### 👨‍💻 About Me
 
-### 🚀 Currently Working On
-
 - 🌱 Learning **React.js & Node.js**
 - 🤖 Exploring **Machine Learning**
 - 💻 Building **Full Stack Projects**
