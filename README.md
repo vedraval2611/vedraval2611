@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ved Raval</h1>
 
-<!--
-**vedraval2611/vedraval2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Aspiring Software Developer from India</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+- 🌱 Currently learning **React.js, Node.js, Machine Learning**
+- 💻 Interested in **Full Stack Development & AI**
+- 👨‍🎓 Computer Science Student at **GLS University**
+- 📫 Reach me: **parulraval2101@gmail.com**
+- ⚡ Fun fact: I enjoy solving programming problems and building real-world projects.
+
+---
+
+### 🚀 Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,react,nodejs,js,html,css,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![Ved's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedraval2611&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vedraval2611&theme=tokyonight)
+
+---
+
+### 📈 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedraval2611&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ved-raval-a109ba284)
+
+---
+
+⭐ **Thanks for visiting my profile!**
