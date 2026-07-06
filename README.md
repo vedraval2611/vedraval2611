@@ -9,7 +9,7 @@
 - 🌱 Currently learning **React.js, Node.js, Machine Learning**
 - 💻 Interested in **Full Stack Development & AI**
 - 👨‍🎓 Computer Science Student at **GLS University**
-- 📫 Reach me: **parulraval2101@gmail.com**
+- 📫 Connect with me on LinkedIn
 - ⚡ Fun fact: I enjoy solving programming problems and building real-world projects.
 
 ---
